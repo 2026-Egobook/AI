@@ -61,7 +61,7 @@ TTA(한국정보통신기술협회)에서 개발한 '유해표현 검출 AI모�
 ```bash
 curl -X POST "https://-/detect" \
   -H "Content-Type: application/json" \
-  -d '{"text": "xx같은 쓰레기야"}'
+  -d '{"text": "xx같은 xx야"}'
 ```
 
 **응답:**
